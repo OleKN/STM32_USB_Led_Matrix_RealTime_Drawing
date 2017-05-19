@@ -8,7 +8,7 @@
 ### Qt/C++ drawing app 
 ![Qt ppp screenshot](./Screenshot.png)
 
-:grey_exclamation:USB device detected by Vendor ID and Product ID
+:grey_exclamation:USB device is detected by Vendor ID and Product ID
 
 ### YouTube demo video URL
 https://www.youtube.com/watch?v=PMLNQ5mM47Y
