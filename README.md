@@ -7,6 +7,7 @@
 
 ### Qt/C++ drawing app 
 ![Qt ppp screenshot](./Screenshot.png)
+
 :grey_exclamation:USB device detected by Vendor ID and Product ID
 
 ### YouTube demo video URL
