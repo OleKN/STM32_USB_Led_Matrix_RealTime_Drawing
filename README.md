@@ -9,5 +9,4 @@
 
 :grey_exclamation:USB device is detected by Vendor ID and Product ID
 
-### Demo video on YouTube
-URL: https://www.youtube.com/watch?v=PMLNQ5mM47Y
+#### Demo video on YouTube: https://www.youtube.com/watch?v=PMLNQ5mM47Y
