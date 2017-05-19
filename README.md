@@ -2,11 +2,12 @@
 
 # STM32 USB Led Matrix Real Time Drawing
 
-### - Modules connection
+### Modules connection
 ![Modules connection diagram](./Connection.png)
 
-### - Qt/C++ Drawing App 
+### Qt/C++ drawing app 
+![Qt ppp screenshot](./Screenshot.png)
 :grey_exclamation:USB device detected by Vendor ID and Product ID
 
-### - YouTube demo video URL
+### YouTube demo video URL
 https://www.youtube.com/watch?v=PMLNQ5mM47Y
